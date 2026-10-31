@@ -1,8 +1,0 @@
-﻿__pycache__/
-*.py[cod]
-*.class
-.vscode/
-.idea/
-*.swp
-*.swo
-.DS_Store
